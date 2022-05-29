@@ -1,0 +1,62 @@
+[
+	{
+		"nombre": "coffee",
+		"descripcion": "Cup of Coffee",
+		"codigo": "001",
+		"foto": "https://cdn1.iconfinder.com/data/icons/drink-beverage/512/11-coffee-espresso-cafe-mug-256.png",
+		"precio": "5",
+		"stock": "1",
+		"id": 1,
+		"timestamp": "5/28/2022, 3:05:46 PM"
+	},
+	{
+		"nombre": "Pizza",
+		"descripcion": "Splice Pizza",
+		"codigo": "002",
+		"foto": "https://cdn3.iconfinder.com/data/icons/food-and-drink-color/64/food_pizza_fastfood_snack_italian_fat_restaurant-256.png",
+		"precio": "7",
+		"stock": "1",
+		"id": 2,
+		"timestamp": "5/28/2022, 3:12:55 PM"
+	},
+	{
+		"nombre": "Pizza",
+		"descripcion": "Splice Pizza",
+		"codigo": "002",
+		"foto": "https://cdn3.iconfinder.com/data/icons/food-and-drink-color/64/food_pizza_fastfood_snack_italian_fat_restaurant-256.png",
+		"precio": "7",
+		"stock": "1",
+		"id": 3,
+		"timestamp": "5/28/2022, 3:13:49 PM"
+	},
+	{
+		"nombre": "Pizza",
+		"descripcion": "Splice Pizza",
+		"codigo": "002",
+		"foto": "https://cdn3.iconfinder.com/data/icons/food-and-drink-color/64/food_pizza_fastfood_snack_italian_fat_restaurant-256.png",
+		"precio": "7",
+		"stock": "1",
+		"id": 1,
+		"timestamp": "5/29/2022, 7:13:54 PM"
+	},
+	{
+		"nombre": "Coffee",
+		"descripcion": "SCup of coffee",
+		"codigo": "001",
+		"foto": "https://cdn1.iconfinder.com/data/icons/drink-beverage/512/11-coffee-espresso-cafe-mug-256.png",
+		"precio": "3",
+		"stock": "1",
+		"id": 2,
+		"timestamp": "5/29/2022, 7:14:57 PM"
+	},
+	{
+		"nombre": "Cookie",
+		"descripcion": "a Cookie",
+		"codigo": "002",
+		"foto": "https://cdn3.iconfinder.com/data/icons/food-3-11/128/food_Cookie-Biscuit-Cracker-Snack-256.png",
+		"precio": 1,
+		"stock": 1,
+		"id": 3,
+		"timestamp": "5/29/2022, 7:20:23 PM"
+	}
+]
